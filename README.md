@@ -1,4 +1,4 @@
-somerepo
+somesns
 ========
 
 Hi, everyone! I'm new here in GitHub.
